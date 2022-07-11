@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fabianogarcia00@hotmail.com
+	name = Fabiano Garcia
